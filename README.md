@@ -1,5 +1,5 @@
-# first
-Basic Requirment fo the WordPress theme 
+# Create your first theme in wordpress
+There is some Basic Requirment fo the WordPress theme and below the details. 
 <h1>Step 1: Create Your Theme Folder</h1>
 
 We will include all the theme WordPress files in one folder and we will share this files as theme. You can set any name for the folder.
